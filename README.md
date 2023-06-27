@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bateshima
-- 👀 I’m interested in get a traineeship
-- 🌱 I’m currently learning analysis and systems development
-- 💞️ I’m looking to collaborate on work placement
-- 📫 How to reach me on email: barbara.teshima@gmail.com
+- 👋 Oie! Eu sou a Bárbara Teshima!
+- 📔 Estou cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando HTML, CSS e JavaScript
+
 
 <!---
 bateshima/bateshima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
